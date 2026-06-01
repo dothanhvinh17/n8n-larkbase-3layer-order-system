@@ -46,15 +46,16 @@ Astro Admin n8n Workflows LarkBase Core
 ## 📂 Repository Structure
 
 n8n-larkbase-3layer-order-system/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── architecture/ # Diagrams & data flow docs
-├── larkbase/ # Schema examples & query patterns
-├── n8n-workflow/ # Anonymized workflow JSON & node reference
-├── astro-admin/ # Form/UI snippets & auth patterns
-├── screenshots/ # Blurred UI & execution examples
-└── docs/ # Deployment & failover testing guides
+
+- ├── README.md
+- ├── LICENSE
+- ├── .gitignore
+- ├── architecture/ # Diagrams & data flow docs
+- ├── larkbase/ # Schema examples & query patterns
+- ├── n8n-workflow/ # Anonymized workflow JSON & node reference
+- ├── astro-admin/ # Form/UI snippets & auth patterns
+- ├── screenshots/ # Blurred UI & execution examples
+- └── docs/ # Deployment & failover testing guides
 
 ## 🔐 Anonymization & Security
 
