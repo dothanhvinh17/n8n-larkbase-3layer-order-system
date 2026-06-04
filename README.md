@@ -66,6 +66,11 @@ This repo contains **anonymized, educational content only**:
 
 All screenshots will have sensitive fields blurred. Use this repo to learn architecture patterns, not to replicate a specific business.
 
+> 🔐 **Note for practitioners**: This repo illustrates architectural patterns only. 
+> Implementing a production system requires business context analysis, 
+> custom schema design, and failover testing — services available via 
+> [vinhautomation.com](https://www.vinhautomation.com/en).
+
 ## 🧭 Next Steps & Roadmap
 
 - [ ] Upload architecture diagram (SVG/PNG)
